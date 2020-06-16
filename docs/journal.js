@@ -4,7 +4,7 @@ window.onload = function() {
       if (r.readyState == 4 && r.status == 200)
           renderJournal(JSON.parse(r.responseText));
   }
-  r.open("GET", "https://raw.githubusercontent.com/kikeelectronico/R2-D2/master/docs/content/journal.json", true);
+  r.open("GET", "https://kikeelectronico.github.io/R2-D2/content/journal.json", true);
   r.send(null);
 }
 
