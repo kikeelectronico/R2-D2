@@ -10,4 +10,17 @@ window.onload = function() {
 
 function renderJournal(journal){
   console.log(journal);
+  journal_content = "";
+  journal.forEach((rengister, i) => {
+    journal_content += '<div class="card">\
+                          <div class="card-body">\
+                            Fecha:' + rengister['date'] + ' (' + rengister['date'] + ')<br>\
+                            <strong>' + rengister['title'] + '</strong><br>\
+                            <p>' + rengister['message'] + '</p>\
+                          </div>\
+                        </div>';
+  });
+
+  document.getElementById('journal').innerHTML = journal_content;
+
 }

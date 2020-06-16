@@ -1,17 +1,20 @@
 [
   {
+  "day": 2,
   "date":"16/05/2020",
   "title":"Creo que necesito soportes",
   "message":"-"
   },
   {
+  "day": 1,
   "date":"15/05/2020",
   "title":"Imprimiendo la primer pieza",
   "message":"-"
   },
   {
+  "day": 0,
   "date":"10/05/2020",
   "title":"Desencajando la impresora",
-  "message":"-"
+  "message":"<b>-</b>"
   }
 ]
