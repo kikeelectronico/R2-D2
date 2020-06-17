@@ -4,7 +4,7 @@ window.onload = function() {
       if (r.readyState == 4 && r.status == 200)
           renderJournal(JSON.parse(r.responseText));
   }
-  r.open("GET", "https://kikeelectronico.github.io/R2-D2/content/journal.json", true);
+  r.open("GET", "content/journal.json", true);
   r.send(null);
 }
 
@@ -14,8 +14,8 @@ function renderJournal(journal){
   journal.forEach((rengister, i) => {
     journal_content += '<div class="card">\
                           <div class="card-body">\
-                            Fecha:' + rengister['date'] + ' (' + rengister['date'] + ')<br>\
-                            <strong>' + rengister['title'] + '</strong><br>\
+                            Fecha: ' + rengister['date'] + ' (' + rengister['day'] + ')<br>\
+                            <strong>' + rengister['title'] + '</strong><br><hr>\
                             <p>' + rengister['message'] + '</p>\
                           </div>\
                         </div>';

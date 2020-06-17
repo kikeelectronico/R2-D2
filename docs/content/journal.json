@@ -1,20 +1,26 @@
 [
   {
+  "day": 3,
+  "date":"17/05/2020",
+  "title":"Vendito silencio",
+  "message":"Normalmente suelo imprimir mientras que estoy en la oficina y controlo la impresora mediante Octoprint. Estos días de teletrabajo, imprimiendo 15 horas al día me estaba empezando a voler loco. Así que he movido la impresora a otra habitación y es una maravilla.<br><br>Con respecto al uso de soportes, ha sido una buena decisión, a pesar de aumentar el tiempo de impresión entre 1 h y 2 h por pieza."
+  },
+  {
   "day": 2,
   "date":"16/05/2020",
   "title":"Creo que necesito soportes",
-  "message":"-"
+  "message":"Decidí imprimir sin soportes por ahorrarme unas horas de impresión.<br><br> - Total, las voy a postprocesar igual - Pensé. <br><br> Grave error, me arrepiento, vuelvo a poner soportes. En total añaden unas 8 horas extra en la impresión de la cabeza."
   },
   {
   "day": 1,
   "date":"15/05/2020",
   "title":"Imprimiendo la primer pieza",
-  "message":"-"
+  "message":"Comienzo a imprimir. El plan es ir por secciones.<br><br>Primero imprimir todas las piezas del domo (cabeza), una vez estén todas, unirlas y postprocesarlas, para después pasar a la mecánica y la electrónica de la cabeza.<br><br>Esto va a llevar unos días :-)"
   },
   {
   "day": 0,
   "date":"10/05/2020",
   "title":"Desencajando la impresora",
-  "message":"<b>-</b>"
+  "message":"Me he decido a construir un droide astromecánico de la serie R2 después de muchos años dándole vueltas. <br><br>Hay muy buena información de los clubs de builders de todo el mundo y después de investigar durante varios días creo que me decanto por hacer un R2-D2 impreso en 3D siguiendo los archivos de Mike en Thingiverse <a target=\"blanck\" href=\"https://www.thingiverse.com/mrbaddeley/about\">https://www.thingiverse.com/mrbaddeley/about</a>.<br><br>A por cierto he llegado al límite del eje Z de la impresora por primera vez, tendré que ajustar el eje para poder terminar imprimir las piezas. Me ha faltado algo menos de 6 mm para terminar.</p><img src=\"images/D0I1.jpg\"/><p>"
   }
 ]
