@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Mi viaje con R2-D2</title>
-    <script type="text/javascript" src="journal.js"></script>
+    <link rel="shortcut icon" href="images/favicon.png">
     <link rel="stylesheet" href="style.css">
     <!--Bootstrap-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
@@ -13,11 +13,47 @@
   </head>
   <body>
     <div class="container main_app">
-      <h2>Diario</h2>
-      <div class="journal" id="journal">
-        <!--Content goes here-->
-      </div>
-    </div>
+      <h1>Mi viaje con R2-D2</h1>
+      <hr class="main_divider">
+      <h2>La construcción en números</h2>
+      <div class="card-columns numbers_in_cards">
 
+        <div class="card p-3 text-center">
+          <blockquote class="blockquote mb-0 card-body">
+            <p>35 horas de impresión</p>
+          </blockquote>
+          <small class="text-muted">
+            En el día 4
+          </small>
+        </div>
+
+        <div class="card p-3 text-center">
+          <blockquote class="blockquote mb-0 card-body">
+            <p>2 kilogramos de PLA</p>
+          </blockquote>
+          <small class="text-muted">
+            En el día 4
+          </small>
+        </div>
+
+      </div>
+      <hr class="main_divider">
+
+      <div class="card-columns card_container">
+
+        <div class="card">
+          <a href="journal.html">
+            <img src="images/HI1.jpg" class="card-img-top" alt="Proceso de construcción de R2-D2">
+            <div class="card-body">
+              <h5 class="card-title">Diario de contrucción</h5>
+              <p class="card-text">Sigue los pasos que estoy dando para contruir a R2-D2 día a día.</p>
+            </div>
+          </a>
+        </div>
+
+
+      </div>
+
+    </div>
   </body>
 </html>

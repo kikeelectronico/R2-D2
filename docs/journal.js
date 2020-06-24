@@ -14,7 +14,7 @@ function renderJournal(journal){
   journal.forEach((rengister, i) => {
     journal_content += '<div class="card">\
                           <div class="card-body">\
-                            Fecha: ' + rengister['date'] + ' (' + rengister['day'] + ')<br>\
+                            Fecha: ' + rengister['date'] + ' - Entrada: ' + rengister['day'] + '<br>\
                             <strong>' + rengister['title'] + '</strong><br><hr>\
                             <p>' + rengister['message'] + '</p>\
                           </div>\
