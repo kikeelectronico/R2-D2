@@ -1,74 +1,80 @@
 [
-  {
-  "day": 11,
-  "date":"11/04/2021",
-  "title":"Sigo imprimiendo 2, la revancha",
-  "message":"Parece que el termistor de la impresora a empezado a fallar. Consecuencia de ello he tirado a la basura unas 10 horas de piezas inacabadas.<br><br>Dramas a parte, sigo imprimiendo y montando poco a poco el cuerpo de R2D2. Es divertido al mismo tiempo que dolorosamente lento.<br><br><img src=\"images/D11I1.jpg\"/>"
-  },
-  {
-  "day": 10,
-  "date":"20/03/2021",
-  "title":"Sigo imprimiendo",
-  "message":"Voy despacio, pero no lo he dejado. Sigo imprimiendo y montando poco a poco."
-  },
-  {
-  "day": 9,
-  "date":"5/09/2020",
-  "title":"He comenzado a pintar",
-  "message":"Despues de un tiempo en otros proyectos, retomo a R2D2. He comenzado a pintar las piezas del domo de R2, pero he calculado mal la cantidad de pintura. Me toca esperar unos días a recibir más."
-  },
-  {
-  "day": 8,
-  "date":"11/06/2020",
-  "title":"Sigo imprimiendo",
-  "message":"Sigo imprimiendo piezas. Ya tengo todas las piezas del domo y sus paneles. A lo largo de la semana que viene tendré todas las piezas de los holopoyectores, sus mecanismos y de los mecanismos de los paneles superiores del domo."
-  },
-  {
-  "day": 7,
-  "date":"2/06/2020",
-  "title":"Pon dos anillos en tu vida",
-  "message":"Hoy tengo pocos avances visuales. Por un lado he terminado de imprimir y montar los aniños que se montan debajo del domo. Por otro he lijado de forma preliminar algunas imperfecciones y he rellenado las uniones de las piezas con masilla."
-  },
-  {
-  "day": 6,
-  "date":"1/06/2020",
-  "title":"Acianoacliratizando la vida",
-  "message":"Recibí los pedidos de pegamento y de masilla y ya tengo todas las piezas de la estructura del domo así que me he puesto a pegar el domo. Algunas piezas no encajan a la perfección y quedan desplazadas o bien hacia arriba o bien hacia abajo. Nada que no se pueda arreglar lijando y con la multiherramienta rotativa. Mañana continuaré imprimiendo los anillos inferiores del domo. <img src=\"images/D6I1.jpg\"/>"
-  },
-  {
-  "day": 5,
-  "date":"26/05/2020",
-  "title":"Comenzando a pegar piezas",
-  "message":"Ya tengo impresas las piezas inferiores y medias de la estructura del domo así que me he aventurado a pegar algunas de ellas. <img src=\"images/D5I1.jpg\"/> <br><br> Cada una de las piezas que se ven en la imagen están formadas por dos más pequeñas, una encima de otra.  <img src=\"images/D5I2.jpg\"/> <br><br> He realizado un pedido de pegamento de cianoclirato para continuar montando piezas y de masilla para madera para rellenar las imperfecciones en las uniones entre piezas. No se que tal resultará esta técnica para las imperfecciones, pero parece que a la gente le funciona."
-  },
-  {
-  "day": 4,
-  "date":"24/05/2020",
-  "title":"Sigue imprimiendo, sigue imprimiendo, imprimiendo, imprimiendo...",
-  "message":"Ha pasado una semana desde la última entrada debido a que no ha ocurrido demasiado: sigo imprimiendo piezas del domo, es decir, la cabeza. Día a día voy colocando las nuevas piezas sobre la mesa y ya se empieza a ver la forma :-)<img src=\"images/D4I1.jpg\"/>"
-  },
-  {
-  "day": 3,
-  "date":"17/05/2020",
-  "title":"Bendito silencio",
-  "message":"Normalmente suelo imprimir mientras que estoy en la oficina y controlo la impresora mediante Octoprint. Estos días de teletrabajo, imprimiendo 15 horas al día me estaba empezando a voler loco. Así que he movido la impresora a otra habitación y es una maravilla.<br><br>Con respecto al uso de soportes, ha sido una buena decisión, a pesar de aumentar el tiempo de impresión entre 1 h y 2 h por pieza."
-  },
-  {
-  "day": 2,
-  "date":"16/05/2020",
-  "title":"Creo que necesito soportes",
-  "message":"Decidí imprimir sin soportes por ahorrarme unas horas de impresión.<br><br> - Total, las voy a postprocesar igual - Pensé. <br><br> Grave error, me arrepiento, vuelvo a poner soportes. En total añaden unas 8 horas extra en la impresión de la cabeza."
-  },
-  {
-  "day": 1,
-  "date":"15/05/2020",
-  "title":"Imprimiendo la primera pieza",
-  "message":"Comienzo a imprimir. El plan es ir por secciones.<br><br>Primero imprimir todas las piezas del domo (cabeza), una vez estén todas, unirlas y postprocesarlas, para después pasar a la mecánica y la electrónica de la cabeza.<br><br>Esto va a llevar unos días :-)"
-  },
-  {
-  "day": 0,
-  "date":"10/05/2020",
-  "title":"Desencajando la impresora",
-  "message":"Me he decido a construir un droide astromecánico de la serie R2 después de muchos años dándole vueltas. <br><br>Hay muy buena información de los clubs de builders de todo el mundo y después de investigar durante varios días creo que me decanto por hacer un R2-D2 impreso en 3D siguiendo los archivos de Mike en Thingiverse <a target=\"blanck\" href=\"https://www.thingiverse.com/mrbaddeley/about\">https://www.thingiverse.com/mrbaddeley/about</a>.<br><br>A por cierto he llegado al límite del eje Z de la impresora por primera vez, tendré que ajustar el eje para poder terminar imprimir las piezas. Me ha faltado algo menos de 6 mm para terminar.</p><img src=\"images/D0I1.jpg\"/><p>"
-  }
+    {
+        "day": 12,
+        "date": "3/07/2021",
+        "title": "Montando holoproyectores",
+        "message": "He comenzado a montar los holoproyectores y la mecánica de los <i>pies</>.<br><br>Los holoproyectores se componen de cuatro piezas impresas, dos servos y la placa con LEDs que emite luz. De momento, solo he montado la mecánica y parece funcionar correctamente. Espero montar los LEDs en los próximos días.<br><br><img src=\"images/D12I11.jpg\"/><br><br>Por otro lado he montado los <i>pies</i> motorizados del domo. La mayoría encajan correctamente, pero no fue fácil alinearlos. Tuve que despegarlos varias veces hasta conseguir la posición correcta. Aún así, algunos hay que retocarlos.<br><br><img src=\"images/D12I12.jpg\"/>"
+    },
+    {
+        "day": 11,
+        "date": "11/04/2021",
+        "title": "Sigo imprimiendo 2, la revancha",
+        "message": "Parece que el termistor de la impresora a empezado a fallar. Consecuencia de ello he tirado a la basura unas 10 horas de piezas inacabadas.<br><br>Dramas a parte, sigo imprimiendo y montando poco a poco el cuerpo de R2D2. Es divertido al mismo tiempo que dolorosamente lento.<br><br><img src=\"images/D11I1.jpg\"/>"
+    },
+    {
+        "day": 10,
+        "date": "20/03/2021",
+        "title": "Sigo imprimiendo",
+        "message": "Voy despacio, pero no lo he dejado. Sigo imprimiendo y montando poco a poco."
+    },
+    {
+        "day": 9,
+        "date": "5/09/2020",
+        "title": "He comenzado a pintar",
+        "message": "Despues de un tiempo en otros proyectos, retomo a R2D2. He comenzado a pintar las piezas del domo de R2, pero he calculado mal la cantidad de pintura. Me toca esperar unos días a recibir más."
+    },
+    {
+        "day": 8,
+        "date": "11/06/2020",
+        "title": "Sigo imprimiendo",
+        "message": "Sigo imprimiendo piezas. Ya tengo todas las piezas del domo y sus paneles. A lo largo de la semana que viene tendré todas las piezas de los holopoyectores, sus mecanismos y de los mecanismos de los paneles superiores del domo."
+    },
+    {
+        "day": 7,
+        "date": "2/06/2020",
+        "title": "Pon dos anillos en tu vida",
+        "message": "Hoy tengo pocos avances visuales. Por un lado he terminado de imprimir y montar los aniños que se montan debajo del domo. Por otro he lijado de forma preliminar algunas imperfecciones y he rellenado las uniones de las piezas con masilla."
+    },
+    {
+        "day": 6,
+        "date": "1/06/2020",
+        "title": "Acianoacliratizando la vida",
+        "message": "Recibí los pedidos de pegamento y de masilla y ya tengo todas las piezas de la estructura del domo así que me he puesto a pegar el domo. Algunas piezas no encajan a la perfección y quedan desplazadas o bien hacia arriba o bien hacia abajo. Nada que no se pueda arreglar lijando y con la multiherramienta rotativa. Mañana continuaré imprimiendo los anillos inferiores del domo. <img src=\"images/D6I1.jpg\"/>"
+    },
+    {
+        "day": 5,
+        "date": "26/05/2020",
+        "title": "Comenzando a pegar piezas",
+        "message": "Ya tengo impresas las piezas inferiores y medias de la estructura del domo así que me he aventurado a pegar algunas de ellas. <img src=\"images/D5I1.jpg\"/> <br><br> Cada una de las piezas que se ven en la imagen están formadas por dos más pequeñas, una encima de otra.  <img src=\"images/D5I2.jpg\"/> <br><br> He realizado un pedido de pegamento de cianoclirato para continuar montando piezas y de masilla para madera para rellenar las imperfecciones en las uniones entre piezas. No se que tal resultará esta técnica para las imperfecciones, pero parece que a la gente le funciona."
+    },
+    {
+        "day": 4,
+        "date": "24/05/2020",
+        "title": "Sigue imprimiendo, sigue imprimiendo, imprimiendo, imprimiendo...",
+        "message": "Ha pasado una semana desde la última entrada debido a que no ha ocurrido demasiado: sigo imprimiendo piezas del domo, es decir, la cabeza. Día a día voy colocando las nuevas piezas sobre la mesa y ya se empieza a ver la forma :-)<img src=\"images/D4I1.jpg\"/>"
+    },
+    {
+        "day": 3,
+        "date": "17/05/2020",
+        "title": "Bendito silencio",
+        "message": "Normalmente suelo imprimir mientras que estoy en la oficina y controlo la impresora mediante Octoprint. Estos días de teletrabajo, imprimiendo 15 horas al día me estaba empezando a voler loco. Así que he movido la impresora a otra habitación y es una maravilla.<br><br>Con respecto al uso de soportes, ha sido una buena decisión, a pesar de aumentar el tiempo de impresión entre 1 h y 2 h por pieza."
+    },
+    {
+        "day": 2,
+        "date": "16/05/2020",
+        "title": "Creo que necesito soportes",
+        "message": "Decidí imprimir sin soportes por ahorrarme unas horas de impresión.<br><br> - Total, las voy a postprocesar igual - Pensé. <br><br> Grave error, me arrepiento, vuelvo a poner soportes. En total añaden unas 8 horas extra en la impresión de la cabeza."
+    },
+    {
+        "day": 1,
+        "date": "15/05/2020",
+        "title": "Imprimiendo la primera pieza",
+        "message": "Comienzo a imprimir. El plan es ir por secciones.<br><br>Primero imprimir todas las piezas del domo (cabeza), una vez estén todas, unirlas y postprocesarlas, para después pasar a la mecánica y la electrónica de la cabeza.<br><br>Esto va a llevar unos días :-)"
+    },
+    {
+        "day": 0,
+        "date": "10/05/2020",
+        "title": "Desencajando la impresora",
+        "message": "Me he decido a construir un droide astromecánico de la serie R2 después de muchos años dándole vueltas. <br><br>Hay muy buena información de los clubs de builders de todo el mundo y después de investigar durante varios días creo que me decanto por hacer un R2-D2 impreso en 3D siguiendo los archivos de Mike en Thingiverse <a target=\"blanck\" href=\"https://www.thingiverse.com/mrbaddeley/about\">https://www.thingiverse.com/mrbaddeley/about</a>.<br><br>A por cierto he llegado al límite del eje Z de la impresora por primera vez, tendré que ajustar el eje para poder terminar imprimir las piezas. Me ha faltado algo menos de 6 mm para terminar.</p><img src=\"images/D0I1.jpg\"/><p>"
+    }
 ]
