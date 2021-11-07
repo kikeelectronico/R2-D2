@@ -1,5 +1,11 @@
 [
     {
+        "day": 13,
+        "date": "7/11/2021",
+        "title": "Cojo otro gcode, lo envio a la impresora...",
+        "message": "Después de varios meses, he arreglado la impresora, estaba atascada. Limpiarla no ha sido suficiente, así que he tenido que cambiar el nozzle. El diario tampoco estaba actualizado, tenía cerca de 200 horas sin contabilizar. 669 horas, ¡qué barbaridad!"
+    },
+    {
         "day": 12,
         "date": "3/07/2021",
         "title": "Montando holoproyectores",
